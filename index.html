@@ -1,0 +1,95 @@
+<!doctype html>
+<html lang="ko">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>TraceDB | Trace Database</title>
+    <meta
+      name="description"
+      content="TraceDB is a local-first trace database for Markdown knowledge, block history, and synced blocks."
+    />
+    <link rel="icon" type="image/png" href="/favicon.png" />
+    <link rel="apple-touch-icon" href="/assets/symbol-trace.png" />
+    <link rel="stylesheet" href="/styles.css" />
+  </head>
+  <body>
+    <header class="site-header">
+      <a class="brand" href="/" aria-label="TraceDB home">
+        <img src="/assets/symbol-trace.png" width="32" height="32" alt="" />
+        <span>TraceDB</span>
+      </a>
+      <nav aria-label="Primary">
+        <a href="#download">Download</a>
+        <a href="#updates">Updates</a>
+      </nav>
+    </header>
+
+    <main>
+      <section class="hero">
+        <div class="hero-copy">
+          <p class="eyebrow">Trace Database for macOS</p>
+          <h1>Local-first knowledge traces, versioned block by block.</h1>
+          <p class="lede">
+            TraceDB keeps Markdown workspaces readable while tracking local metadata, block versions, and synced blocks
+            in a desktop database shell.
+          </p>
+          <div class="hero-actions" id="download">
+            <a class="download-button" href="https://github.com/Trace-Database/trace-database.github.io/releases/latest" data-download>
+              Download for Mac
+            </a>
+            <span class="release-meta" data-release-meta>Checking latest version...</span>
+          </div>
+        </div>
+        <figure class="product-shot">
+          <img src="/assets/traceDB-main.png" alt="TraceDB desktop app main screen" />
+        </figure>
+      </section>
+
+      <section class="info-grid" aria-label="TraceDB highlights">
+        <article>
+          <h2>Readable Workspaces</h2>
+          <p>Documents remain ordinary folders with clean Markdown files, assets, and metadata.</p>
+        </article>
+        <article>
+          <h2>Block History</h2>
+          <p>TraceDB records block-level versions locally so edits can be reviewed and restored.</p>
+        </article>
+        <article>
+          <h2>Synced Blocks</h2>
+          <p>Reusable blocks can stay linked across documents while preserving local ownership.</p>
+        </article>
+      </section>
+
+      <section class="updates" id="updates">
+        <div>
+          <p class="eyebrow">Latest Mac Release</p>
+          <h2 data-version-title>TraceDB</h2>
+          <p>
+            The app checks this site’s update feed on startup and from Settings. When a newer signed Mac build is
+            published, TraceDB downloads it and relaunches into the new package.
+          </p>
+        </div>
+        <dl>
+          <div>
+            <dt>Feed</dt>
+            <dd><a href="/updates/latest-mac.yml">latest-mac.yml</a></dd>
+          </div>
+          <div>
+            <dt>Metadata</dt>
+            <dd><a href="/updates/current.json">current.json</a></dd>
+          </div>
+          <div>
+            <dt>Developer</dt>
+            <dd><a href="https://themercenary.org" target="_blank" rel="noreferrer">The Mercenary</a></dd>
+          </div>
+        </dl>
+      </section>
+    </main>
+
+    <footer>
+      <span>Copyright © <span data-current-year></span> The Mercenary. All rights reserved.</span>
+    </footer>
+
+    <script src="/site.js"></script>
+  </body>
+</html>

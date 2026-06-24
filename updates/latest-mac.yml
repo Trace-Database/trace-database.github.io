@@ -1,0 +1,11 @@
+version: 1.0.0
+files:
+  - url: https://github.com/Trace-Database/trace-database.github.io/releases/latest/download/TraceDB-1.0.0-arm64-mac.zip
+    sha512: AuMW3sXsTPEvilU1kge1AnVkOtQm7iyyedEBTdN7ZsZ1xHRnXPpgF9BBOib+q4T7kNdXpcMdMT6uQrYKjTFvvA==
+    size: 127833921
+  - url: https://github.com/Trace-Database/trace-database.github.io/releases/latest/download/TraceDB-v1.0.0-arm64.dmg
+    sha512: duI2fDUHqi9TJhbJ6FjN2ImQnoGxpEg07PCsP65f2jP9llBf1Se+FHCZ7d801qewgGWOKZGRdOt1Tt4L0Bx2pw==
+    size: 144078348
+path: https://github.com/Trace-Database/trace-database.github.io/releases/latest/download/TraceDB-1.0.0-arm64-mac.zip
+sha512: AuMW3sXsTPEvilU1kge1AnVkOtQm7iyyedEBTdN7ZsZ1xHRnXPpgF9BBOib+q4T7kNdXpcMdMT6uQrYKjTFvvA==
+releaseDate: '2026-06-24T16:41:24.451Z'
