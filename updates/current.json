@@ -1,7 +1,7 @@
 {
   "name": "TraceDB",
   "version": "1.0.0",
-  "releaseDate": "2026-06-24T16:41:24.451Z",
+  "releaseDate": "2026-06-24T17:12:58.351Z",
   "platform": "mac",
   "arch": "arm64",
   "updateFeedUrl": "https://trace-database.github.io/updates/",
@@ -10,14 +10,14 @@
     "dmg": {
       "url": "https://github.com/Trace-Database/trace-database.github.io/releases/latest/download/TraceDB-v1.0.0-arm64.dmg",
       "fileName": "TraceDB-v1.0.0-arm64.dmg",
-      "size": 144078348,
-      "sha512": "duI2fDUHqi9TJhbJ6FjN2ImQnoGxpEg07PCsP65f2jP9llBf1Se+FHCZ7d801qewgGWOKZGRdOt1Tt4L0Bx2pw=="
+      "size": 146241160,
+      "sha512": "MPB6xBEZNPFJA7dYARHwNwUUMxxDwGJwiDOf+GTfY3UWWF+Dm3E1Sphwgj4CewTg1DnHmVZ0Kw39T4Ozoira/Q=="
     },
     "zip": {
       "url": "https://github.com/Trace-Database/trace-database.github.io/releases/latest/download/TraceDB-1.0.0-arm64-mac.zip",
       "fileName": "TraceDB-1.0.0-arm64-mac.zip",
-      "size": 127833921,
-      "sha512": "AuMW3sXsTPEvilU1kge1AnVkOtQm7iyyedEBTdN7ZsZ1xHRnXPpgF9BBOib+q4T7kNdXpcMdMT6uQrYKjTFvvA=="
+      "size": 128986236,
+      "sha512": "M8stj2/Gr/WNm/AqcdJT79awPPTwo9LjTmFj7kDbrEkV2741UNKvapBaHtiCEoKBQOj2mgXwSfwVvNOx33NXJQ=="
     }
   }
 }
